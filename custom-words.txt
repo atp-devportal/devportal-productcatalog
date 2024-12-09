@@ -1,0 +1,15 @@
+APIKEY
+Arazzo
+DevRel
+fontname
+Kilcommins
+Lato
+Merriweather
+omnichannel
+petco
+petcopetstore
+Petstore
+Playfair
+Roboto
+SmartBear
+SWAGGERHUB
