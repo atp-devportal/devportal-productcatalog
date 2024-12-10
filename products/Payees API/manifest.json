@@ -1,6 +1,6 @@
 {
     "productMetadata": {
-        "description": "Consumers to search, identify and retrieve payee info and transactions within a specified country.",
+        "description": "Allows consumers to search, identify and retrieve payee info and transactions within a specified country.",
         "slug": "payees-api",
         "public": true,
         "hidden": false,
