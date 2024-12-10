@@ -15,7 +15,7 @@ source ./scripts/utilities.sh
 
 PORTAL_SUBDOMAIN="${SWAGGERHUB_PORTAL_SUBDOMAIN}"
 SWAGGERHUB_API_KEY="${SWAGGERHUB_API_KEY}"
-PORTAL_URL="https://api.portal.swaggerhub.com/v1"
+PORTAL_URL="https://dab2024.portal.swaggerhub.com/"
 
 declare -g section_id
 declare -g product_id
