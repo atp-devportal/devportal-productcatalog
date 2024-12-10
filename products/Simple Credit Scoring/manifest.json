@@ -13,7 +13,7 @@
         {
             "order": 0,
             "parent": "",
-            "name": "How to Identify a Business Entity",
+            "name": "How to Identify a Business Entity1",
             "slug":"how-to-identify-a-business-entity",
             "type": "markdown",
             "contentUrl": "Identify-Business-Entity.md"
@@ -21,7 +21,7 @@
         {
             "order": 1,
             "parent": "",
-            "name": "Authentication",
+            "name": "Authentication1",
             "slug":"authentication",
             "type": "markdown",
             "contentUrl": "Authentication.md"
@@ -29,7 +29,7 @@
         {
             "order": 2,
             "parent": "",
-            "name": "Simple Credit Scoring API",
+            "name": "Simple Credit Scoring API1",
             "slug":"simple-credit-scoring-api",
             "type": "apiUrl",
             "contentUrl": "https://app.swaggerhub.com/apis/DAB2024/BundlesAPI/1.0.0swagger.json"
