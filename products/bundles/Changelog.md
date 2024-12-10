@@ -10,7 +10,7 @@ This page contains a log of all changes to the API and the versions that are rel
 
 ## v1.0.0
 
-Initial launch of the Payees API for SmartBearCoin. 🚀🚀🚀
+Initial launch of the Payees API for teat . 🚀🚀🚀
 
 The API provides the ability to search for payees, retrieve payee information, and obtain transactions per payee:
 | Resource | Description |
