@@ -1,0 +1,47 @@
+{
+    "productMetadata": {
+        "description": "Allows consumers to search, identify and retrieve payee info and transactions within a specified country.",
+        "slug": "bundles",
+        "public": true,
+        "hidden": false,
+        "logo": "images/bundles.png",
+        "logoDark": "",
+        "autoPublish": true,
+        "validateAPIs": false
+    },
+    "contentMetadata": [
+        {
+            "order": 0,
+            "parent": "",
+            "name": "Overview",
+            "slug":"overview",
+            "type": "markdown",
+            "contentUrl": "Overview.md"
+        },
+        {
+            "order": 1,
+            "parent": "",
+            "name": "Getting Started",
+            "slug":"getting-started",
+            "type": "markdown",
+            "contentUrl": "Getting-Started.md"
+        },
+        {
+            "order": 2,
+            "parent": "",
+            "name": "Payees API",
+            "slug":"payees-api",
+            "type": "apiUrl",
+            "contentUrl": "https://app.swaggerhub.com/apis/DAB2024/BundlesAPI/1.0.0swagger.json"
+        },
+        {
+            "order": 3,
+            "parent": "",
+            "name": "Changelog",
+            "slug":"changelog",
+            "type": "markdown",
+            "contentUrl": "Changelog.md"
+        }
+        
+    ]
+}
