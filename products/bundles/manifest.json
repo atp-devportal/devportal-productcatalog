@@ -1,10 +1,10 @@
 {
     "productMetadata": {
         "description": "Allows consumers to search, identify and retrieve payee info and transactions within a specified country.",
-        "slug": "payees-api",
+        "slug": "bundles",
         "public": true,
         "hidden": false,
-        "logo": "images/Payees-API.png",
+        "logo": "images/embedded/Payees-API.png",
         "logoDark": "",
         "autoPublish": true,
         "validateAPIs": false
