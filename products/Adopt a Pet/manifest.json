@@ -33,22 +33,6 @@
             "slug": "client-code-typescript",
             "type": "markdown",
             "contentUrl": "Client-Code-Typescript.md"
-        },
-        {
-            "order": 5,
-            "parent": "",
-            "name": "Pets API",
-            "type": "apiUrl",
-            "slug": "Pets",
-            "contentUrl": "https://api.swaggerhub.com/apis/frank-kilcommins/Pets/1.0.0/swagger.json"
-        },
-        {
-            "order": 6,
-            "parent": "",
-            "name": "Adoptions API",
-            "type": "apiUrl",
-            "slug": "Adoptions",
-            "contentUrl": "https://api.swaggerhub.com/apis/frank-kilcommins/Adoptions/1.0.0/swagger.json"
         }
     ]
 }

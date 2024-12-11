@@ -61,14 +61,6 @@
         {
             "order": 6,
             "parent": "",
-            "name": "SwaggerHub Portal API",
-            "slug":"swaggerhub-portal-api",
-            "type": "apiUrl",
-            "contentUrl": "https://api.swaggerhub.com/apis/frank-kilcommins/swaggerhub-portal-api/0.2.0-beta/swagger.json"
-        },
-        {
-            "order": 7,
-            "parent": "",
             "name": "API Changelog",
             "slug":"api-changelog",
             "type": "markdown",
