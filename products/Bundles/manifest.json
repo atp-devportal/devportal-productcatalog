@@ -4,7 +4,7 @@
         "slug": "bundles",
         "public": true,
         "hidden": false,
-        "logo": "images/Zephyr-Squad.png",
+        "logo": "images/bundles.png",
         "logoDark": "",
         "autoPublish": true,
         "validateAPIs": false
