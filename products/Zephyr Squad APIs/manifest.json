@@ -1,7 +1,7 @@
 {
     "productMetadata": {
         "description": "A flexible test management solution for small Agile teams in Jira.",
-        "slug": "zephyr-squad",
+        "slug": "bundles",
         "public": true,
         "hidden": false,
         "logo": "images/Zephyr-Squad.png",
@@ -29,8 +29,8 @@
         {
             "order": 6,
             "parent": "",
-            "name": "Zephyr Squad Cloud API",
-            "slug":"zephyr-squad-cloud-api",
+            "name": "bundles-api",
+            "slug":"bundles-api",
             "type": "apiUrl",
             "contentUrl": "https://app.swaggerhub.com/apis/DAB2024/BundlesAPI/1.0.0/swagger.json"
         }

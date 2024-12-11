@@ -61,14 +61,6 @@
         {
             "order": 6,
             "parent": "",
-            "name": "SwaggerHub Portal API",
-            "slug":"swaggerhub-portal-api",
-            "type": "apiUrl",
-            "contentUrl": "https://app.swaggerhub.com/apis/DAB2024/BundlesAPI/1.0.0/swagger.json"
-        },
-        {
-            "order": 7,
-            "parent": "",
             "name": "API Changelog",
             "slug":"api-changelog",
             "type": "markdown",
