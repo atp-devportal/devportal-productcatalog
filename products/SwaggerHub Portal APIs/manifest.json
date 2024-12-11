@@ -64,7 +64,7 @@
             "name": "SwaggerHub Portal API",
             "slug":"swaggerhub-portal-api",
             "type": "apiUrl",
-            "contentUrl": "https://api.swaggerhub.com/apis/frank-kilcommins/swaggerhub-portal-api/0.2.0-beta/swagger.json"
+            "contentUrl": "https://app.swaggerhub.com/apis/DAB2024/BundlesAPI/1.0.0/swagger.json"
         },
         {
             "order": 7,
