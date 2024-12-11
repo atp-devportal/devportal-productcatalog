@@ -1,6 +1,6 @@
 {
     "productMetadata": {
-        "description": "Allows consumers to search, identify and retrieve payee info and transactions within a specified country.",
+        "description": " Identify and retrieve payee info and transactions within a specified country.",
         "slug": "bundles",
         "public": true,
         "hidden": false,
