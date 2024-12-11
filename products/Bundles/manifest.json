@@ -29,8 +29,8 @@
         {
             "order": 2,
             "parent": "",
-            "name": "bundles-api",
-            "slug":"bundles-api",
+            "name": "bundles",
+            "slug":"bundles",
             "type": "apiUrl",
             "contentUrl": "https://app.swaggerhub.com/apis/DAB2024/BundlesAPI/1.0.0/swagger.json"
         }
