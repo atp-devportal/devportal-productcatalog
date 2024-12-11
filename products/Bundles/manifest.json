@@ -27,7 +27,7 @@
             "contentUrl": "Authentication.md"
         },
         {
-            "order": 6,
+            "order": 2,
             "parent": "",
             "name": "bundles-api",
             "slug":"bundles-api",
