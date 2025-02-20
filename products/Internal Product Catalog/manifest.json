@@ -1,7 +1,7 @@
 {
     "productMetadata": {
-        "description": "Product catalog internal description !",
-        "slug": "product-catalog-internal",
+        "description": "internal Product catalog  description !",
+        "slug": "internal-product-catalog",
         "public": true,
         "hidden": false,
         "logo": "",
