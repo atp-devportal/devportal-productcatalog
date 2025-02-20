@@ -2,7 +2,7 @@
 
 ## Overview
 
-Product Catalog data is created and managed through various means (intake APIs/graphical user interface) by Catalog owners. ATPCO also populates the Product Catalog with data that is in ATPCO source systems, such as Amenities, Rules, OSF, and Branded Fares.  
+Product Catalog Internal data is created and managed through various means (intake APIs/graphical user interface) by Catalog owners. ATPCO also populates the Product Catalog with data that is in ATPCO source systems, such as Amenities, Rules, OSF, and Branded Fares.  
 
 Catalog data needs to be available to subscribers/vendors/retailers/owners on a timely basis, and any updates must be published per their preferences.  
 

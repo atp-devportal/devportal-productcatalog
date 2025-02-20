@@ -1,6 +1,6 @@
 {
     "productMetadata": {
-        "description": "internal Product catalog  description !",
+        "description": "internal Product catalog description !",
         "slug": "internal-product-catalog",
         "public": true,
         "hidden": false,
@@ -13,18 +13,10 @@
         {
             "order": 0,
             "parent": "",
-            "name": "Distribution",
-            "slug":"distribution",
+            "name": "Overview of the Product Catalog",
+            "slug":"overview",
             "type": "markdown",
             "contentUrl": "pc-distribution.md"
-        },
-        {
-            "order": 1,
-            "parent": "",
-            "name": "bundles",
-            "slug":"bundles",
-            "type": "apiUrl",
-            "contentUrl": "https://api.swaggerhub.com/apis/frank-kilcommins/Adoptions/1.0.0"
         }
     ]
 }
