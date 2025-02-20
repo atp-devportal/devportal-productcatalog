@@ -1,8 +1,9 @@
-name: Publish Portal Content (Cron)
+name: Publish Portal Content
 
 on:
-  schedule:
-    - cron: '0 10 * * *'
+  push:
+    branches:
+      - main
   workflow_dispatch:
     inputs:
       log_level:
