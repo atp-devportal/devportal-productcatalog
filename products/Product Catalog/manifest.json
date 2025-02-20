@@ -1,0 +1,30 @@
+{
+    "productMetadata": {
+        "description": "A flexible test management solution for small Agile teams in Jira",
+        "slug": "product-catalog",
+        "public": true,
+        "hidden": false,
+        "logo": "",
+        "logoDark": "",
+        "autoPublish": true,
+        "validateAPIs": false
+    },
+    "contentMetadata": [
+        {
+            "order": 0,
+            "parent": "",
+            "name": "Distribution",
+            "slug":"distribution",
+            "type": "markdown",
+            "contentUrl": "pc-distribution.md"
+        },
+        {
+            "order": 1,
+            "parent": "",
+            "name": "bundles",
+            "slug":"bundles",
+            "type": "apiUrl",
+            "contentUrl": "https://api.swaggerhub.com/apis/frank-kilcommins/Adoptions/1.0.0"
+        }
+    ]
+}
