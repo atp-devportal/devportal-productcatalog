@@ -17,14 +17,6 @@
             "slug":"distribution",
             "type": "markdown",
             "contentUrl": "pc-distribution.md"
-        },
-        {
-            "order": 1,
-            "parent": "",
-            "name": "bundles",
-            "slug":"bundles",
-            "type": "apiUrl",
-            "contentUrl": "https://api.swaggerhub.com/apis/frank-kilcommins/Adoptions/1.0.0"
         }
     ]
 }

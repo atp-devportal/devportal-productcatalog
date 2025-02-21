@@ -1,10 +1,10 @@
 {
     "productMetadata": {
         "description": "internal Product catalog description !",
-        "slug": "internal-product-catalog",
-        "public": true,
-        "hidden": false,
-        "logo": "",
+        "slug": "internal-catalog",
+        "public": false,
+        "hidden": true,
+        "logo": "images/logo.png",
         "logoDark": "",
         "autoPublish": true,
         "validateAPIs": false
@@ -16,7 +16,7 @@
             "name": "Overview of the Product Catalog",
             "slug":"overview",
             "type": "markdown",
-            "contentUrl": "pc-distribution.md"
+            "contentUrl": "org-api.md"
         }
     ]
 }
