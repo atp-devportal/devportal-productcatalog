@@ -3,7 +3,7 @@
         "description": "internal Product catalog description !",
         "slug": "internal-catalog",
         "public": false,
-        "hidden": true,
+        "hidden": false,
         "logo": "images/logo.png",
         "logoDark": "",
         "autoPublish": true,
