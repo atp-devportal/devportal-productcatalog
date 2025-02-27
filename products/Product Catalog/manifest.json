@@ -26,6 +26,7 @@
             "type": "apiUrl",
             "contentUrl": "https://api.swaggerhub.com/apis/ATPCO_APIS/pc-bundle-api/1.0.0/swagger.json"
         },
+        
         {
             "order": 2,
             "parent": "",
@@ -37,10 +38,18 @@
         {
             "order": 3,
             "parent": "intake",
-            "name": "Intake API Spec",
+            "name": "Bundles API Spec",
             "slug":"bundles",
             "type": "apiUrl",
             "contentUrl": "https://api.swaggerhub.com/apis/ATPCO_APIS/pc-bundle-api/1.0.0/swagger.json"
+        },
+        {
+            "order": 4,
+            "parent": "intake",
+            "name": "Products API Spec",
+            "slug":"products",
+            "type": "apiUrl",
+            "contentUrl": "https://api.swaggerhub.com/apis/ATPCO_APIS/pc-products-api/1.0.0/swagger.json"
         }
     ]
 }

@@ -1,4 +1,4 @@
-# Product Catalog Distribution APIs
+# Intake API Spec
 
 ## Overview
 
