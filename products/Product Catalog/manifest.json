@@ -21,7 +21,23 @@
         {
             "order": 1,
             "parent": "distribution",
-            "name": "Bundle API",
+            "name": "API Specification",
+            "slug":"distro",
+            "type": "apiUrl",
+            "contentUrl": "https://api.swaggerhub.com/apis/ATPCO_APIS/pc-bundle-api/1.0.0/swagger.json"
+        },
+        {
+            "order": 2,
+            "parent": "",
+            "name": "Intake API",
+            "slug":"intake",
+            "type": "markdown",
+            "contentUrl": "pc-distribution.md"
+        },
+        {
+            "order": 3,
+            "parent": "intake",
+            "name": "API Specification",
             "slug":"bundles",
             "type": "apiUrl",
             "contentUrl": "https://api.swaggerhub.com/apis/ATPCO_APIS/pc-bundle-api/1.0.0/swagger.json"
