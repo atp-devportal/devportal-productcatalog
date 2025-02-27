@@ -1,6 +1,6 @@
 {
     "productMetadata": {
-        "description": "Prodcut catalog description !",
+        "description": "Catalog provides airlines and their partners with a structured repository of fare-related products & services",
         "slug": "product-catalog",
         "public": true,
         "hidden": false,
@@ -17,6 +17,14 @@
             "slug":"distribution",
             "type": "markdown",
             "contentUrl": "pc-distribution.md"
+        },
+        {
+            "order": 1,
+            "parent": "distribution",
+            "name": "Bundle API",
+            "slug":"bundles",
+            "type": "apiUrl",
+            "contentUrl": "https://api.swaggerhub.com/apis/ATPCO_APIS/pc-bundle-api/1.0.0/swagger.json"
         }
     ]
 }
