@@ -14,15 +14,15 @@
             "order": 0,
             "parent": "",
             "name": "Distribution API",
-            "slug":"distribution",
+            "slug":"distro",
             "type": "markdown",
             "contentUrl": "pc-distribution.md"
         },
         {
             "order": 1,
-            "parent": "distribution",
+            "parent": "distro",
             "name": "Distribution API Spec",
-            "slug":"distro",
+            "slug":"distro-spec",
             "type": "apiUrl",
             "contentUrl": "https://api.swaggerhub.com/apis/ATPCO_APIS/pc-bundle-api/1.0.0/swagger.json"
         },
