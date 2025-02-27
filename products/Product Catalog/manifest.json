@@ -30,7 +30,7 @@
         {
             "order": 2,
             "parent": "",
-            "name": "Intake API",
+            "name": "Intake APIs",
             "slug":"intake",
             "type": "markdown",
             "contentUrl": "pc-intake.md"
