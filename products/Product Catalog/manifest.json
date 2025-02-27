@@ -31,13 +31,13 @@
             "order": 2,
             "parent": "",
             "name": "Intake APIs",
-            "slug":"intakeapi",
+            "slug":"intake",
             "type": "markdown",
             "contentUrl": "pc-intake.md"
         },
         {
             "order": 3,
-            "parent": "intakeapi",
+            "parent": "intake",
             "name": "Bundles API Spec",
             "slug":"bundles",
             "type": "apiUrl",
@@ -45,7 +45,7 @@
         },
         {
             "order": 4,
-            "parent": "intakeapi",
+            "parent": "intake",
             "name": "Products API Spec",
             "slug":"products",
             "type": "apiUrl",
