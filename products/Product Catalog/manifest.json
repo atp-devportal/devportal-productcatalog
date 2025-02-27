@@ -24,7 +24,7 @@
             "name": "Distribution API Spec",
             "slug":"distro",
             "type": "apiUrl",
-            "contentUrl": "https://app.swaggerhub.com/apis/ATPCO_APIS/pc-bundle-api/1.0.0/swagger.json"
+            "contentUrl": "https://api.swaggerhub.com/apis/ATPCO_APIS/pc-bundle-api/1.0.0/swagger.json"
         },
         {
             "order": 2,
@@ -40,7 +40,7 @@
             "name": "Intake API Spec",
             "slug":"bundles",
             "type": "apiUrl",
-            "contentUrl": "https://app.swaggerhub.com/apis/ATPCO_APIS/pc-bundle-api/1.0.0/swagger.json"
+            "contentUrl": "https://api.swaggerhub.com/apis/ATPCO_APIS/pc-bundle-api/1.0.0/swagger.json"
         }
     ]
 }
