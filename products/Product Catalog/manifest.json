@@ -26,14 +26,13 @@
             "type": "apiUrl",
             "contentUrl": "https://api.swaggerhub.com/apis/ATPCO_APIS/pc-bundle-api/1.0.0/swagger.json"
         },
-        
         {
             "order": 2,
             "parent": "",
             "name": "Intake APIs",
             "slug":"intake",
             "type": "markdown",
-            "contentUrl": "pc-intake.md"
+            "contentUrl": "pc-intake-bundle-overview.md"
         },
         {
             "order": 3,
